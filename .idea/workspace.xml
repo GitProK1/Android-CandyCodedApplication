@@ -13,11 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,22 +175,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1601442871923" />
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom" timestamp="1601200676431">
+    <state x="232" y="0" key="CommitChangelistDialog2" timestamp="1601460981714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601200676431" />
-    <state width="1286" height="178" key="GridCell.Tab.0.center" timestamp="1601200676430">
+    <state x="232" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601460981714" />
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom" timestamp="1601462614236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601200676430" />
-    <state width="1286" height="178" key="GridCell.Tab.0.left" timestamp="1601200676429">
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601462614236" />
+    <state width="1323" height="195" key="GridCell.Tab.0.center" timestamp="1601462614235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601200676429" />
-    <state width="1286" height="178" key="GridCell.Tab.0.right" timestamp="1601200676430">
+    <state width="1323" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601462614235" />
+    <state width="1323" height="195" key="GridCell.Tab.0.left" timestamp="1601462614183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601200676430" />
+    <state width="1323" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601462614183" />
+    <state width="1323" height="195" key="GridCell.Tab.0.right" timestamp="1601462614236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601462614236" />
     <state x="110" y="120" width="1146" height="488" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601203263405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
